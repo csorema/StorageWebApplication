@@ -1,0 +1,46 @@
+﻿@page
+@model StorageWebApplication.Pages.IndexModel
+@{
+    ViewData["Title"] = "Kezdőoldal";
+}
+
+<h1>Üdvözöl a StorageWebApplication!</h1>
+
+<h2>Regisztráció</h2>
+<form method="post" asp-page-handler="Register">
+    <div>
+        <label for="Name">Név:</label>
+        <input type="text" id="Name" name="Name" />
+    </div>
+    <div>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" />
+    </div>
+    <div>
+        <label for="Password">Jelszó:</label>
+        <input type="password" id="Password" name="Password" />
+    </div>
+    <div>
+        <label for="BirthDate">Születési dátum:</label>
+        <input type="date" id="BirthDate" name="BirthDate" />
+    </div>
+    <button type="submit">Regisztráció</button>
+</form>
+
+<h2>Bejelentkezés</h2>
+<form method="post" asp-page-handler="Login">
+    <div>
+        <label for="LoginEmail">Email:</label>
+        <input type="email" id="LoginEmail" name="LoginEmail" />
+    </div>
+    <div>
+        <label for="LoginPassword">Jelszó:</label>
+        <input type="password" id="LoginPassword" name="LoginPassword" />
+    </div>
+    <button type="submit">Bejelentkezés</button>
+</form>
+
+@if (!string.IsNullOrEmpty(Model.Message))
+{
+    <p>@Model.Message</p>
+}

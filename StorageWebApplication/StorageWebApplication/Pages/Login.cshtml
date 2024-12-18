@@ -1,0 +1,24 @@
+﻿@page
+@model StorageWebApplication.Pages.LoginModel
+@{
+    ViewData["Title"] = "Bejelentkezés";
+}
+
+<h1>Bejelentkezés</h1>
+
+<form method="post">
+    <div>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" />
+    </div>
+    <div>
+        <label for="Password">Jelszó:</label>
+        <input type="password" id="Password" name="Password" />
+    </div>
+    <button type="submit">Bejelentkezés</button>
+</form>
+
+@if (Model.Message != null)
+{
+    <p>@Model.Message</p>
+}

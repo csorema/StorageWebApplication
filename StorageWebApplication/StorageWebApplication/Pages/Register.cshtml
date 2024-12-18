@@ -1,0 +1,32 @@
+﻿@page
+@model StorageWebApplication.Pages.RegisterModel
+@{
+    ViewData["Title"] = "Regisztráció";
+}
+
+<h1>Regisztráció</h1>
+
+<form method="post">
+    <div>
+        <label for="Name">Név:</label>
+        <input type="text" id="Name" name="Name" />
+    </div>
+    <div>
+        <label for="Email">Email:</label>
+        <input type="email" id="Email" name="Email" />
+    </div>
+    <div>
+        <label for="Password">Jelszó:</label>
+        <input type="password" id="Password" name="Password" />
+    </div>
+    <div>
+        <label for="BirthDate">Születési dátum:</label>
+        <input type="date" id="BirthDate" name="BirthDate" />
+    </div>
+    <button type="submit">Regisztráció</button>
+</form>
+
+@if (Model.Message != null)
+{
+        <p>@Model.Message</p>
+}
