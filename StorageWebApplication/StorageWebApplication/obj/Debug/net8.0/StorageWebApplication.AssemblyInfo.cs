@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StorageWebApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b11019d5acbe3a65103899959d6697822e75b46")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b117fbc28501e4dcaefe31dfe16def245e93c19e")]
 [assembly: System.Reflection.AssemblyProductAttribute("StorageWebApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StorageWebApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

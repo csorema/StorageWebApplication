@@ -32,3 +32,4 @@ D:\Egyetem\StorageWebApp\StorageWebApplication\StorageWebApplication\StorageWebA
 D:\Egyetem\StorageWebApp\StorageWebApplication\StorageWebApplication\StorageWebApplication\obj\Debug\net8.0\StorageWebApplication.pdb
 D:\Egyetem\StorageWebApp\StorageWebApplication\StorageWebApplication\StorageWebApplication\obj\Debug\net8.0\StorageWebApplication.genruntimeconfig.cache
 D:\Egyetem\StorageWebApp\StorageWebApplication\StorageWebApplication\StorageWebApplication\obj\Debug\net8.0\ref\StorageWebApplication.dll
+D:\Egyetem\StorageWebApp\StorageWebApplication\StorageWebApplication\StorageWebApplication\obj\Debug\net8.0\StorageWebApplication.sourcelink.json

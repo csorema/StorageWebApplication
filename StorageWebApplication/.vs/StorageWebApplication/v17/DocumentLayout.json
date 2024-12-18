@@ -3,24 +3,72 @@
   "WorkspaceRootPath": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\contact.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\privacy.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -31,12 +79,16 @@
       "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\pages\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|d:\\egyetem\\storagewebapp\\storagewebapplication\\storagewebapplication\\storagewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEEFC6D8-46CE-4216-9A49-B4E2909DB4E2}|StorageWebApplication\\StorageWebApplication.csproj|solutionrelative:storagewebapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +98,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,72 +110,254 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Program.cs",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Program.cs",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Program.cs",
-              "RelativeToolTip": "StorageWebApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:22:59.626Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Properties\\launchSettings.json",
-              "RelativeToolTip": "StorageWebApplication\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T13:21:47.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "StorageWebApplication\\appsettings.json",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\appsettings.json",
-              "RelativeToolTip": "StorageWebApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-18T13:16:38.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml.cs",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml.cs",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Index.cshtml.cs",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml.cs",
-              "RelativeToolTip": "StorageWebApplication\\Pages\\Index.cshtml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAYwFoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:14:54.913Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "StorageWebApplication\\wwwroot\\css\\style.css",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "StorageWebApplication\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAALIAAAAAAAAAAAAgwLwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T14:17:37.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml",
               "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Index.cshtml",
               "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml",
               "RelativeToolTip": "StorageWebApplication\\Pages\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-12-18T13:14:49.332Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:57:41.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Error.cshtml.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:46:20.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cshtml.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Contact.cshtml.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Contact.cshtml.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Contact.cshtml.cs",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Contact.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:56:46.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Index.cshtml.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:14:54.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:46:18.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:46:25.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Contact.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Contact.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Contact.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:52:00.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T14:46:14.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Privacy.cshtml.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Privacy.cshtml.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Privacy.cshtml.cs",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Privacy.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:46:27.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "bootstrap-reboot.css",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeDocumentMoniker": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "RelativeToolTip": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+              "ViewState": "AgIAAFABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T14:40:27.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "bootstrap-grid.css",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeDocumentMoniker": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "RelativeToolTip": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T14:40:22.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "StorageWebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-18T14:40:08.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "StorageWebApplication\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "StorageWebApplication\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-18T14:39:43.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Register.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:12:56.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Register.cshtml.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml.cs",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Register.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:13:10.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Program.cs",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Program.cs",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Program.cs",
+              "RelativeToolTip": "StorageWebApplication\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:22:59.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Login.cshtml",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Login.cshtml",
+              "RelativeToolTip": "StorageWebApplication\\Pages\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-18T13:13:36.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Login.cshtml.cs",
@@ -136,41 +370,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Login.cshtml",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Login.cshtml",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Login.cshtml",
-              "RelativeToolTip": "StorageWebApplication\\Pages\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T13:13:36.501Z",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "StorageWebApplication\\appsettings.json",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\appsettings.json",
+              "RelativeToolTip": "StorageWebApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:16:38.454Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Register.cshtml.cs",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml.cs",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Register.cshtml.cs",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml.cs",
-              "RelativeToolTip": "StorageWebApplication\\Pages\\Register.cshtml.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAA2wDsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T13:13:10.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml",
-              "RelativeDocumentMoniker": "StorageWebApplication\\Pages\\Register.cshtml",
-              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Pages\\Register.cshtml",
-              "RelativeToolTip": "StorageWebApplication\\Pages\\Register.cshtml",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-18T13:12:56.309Z",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StorageWebApplication\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StorageWebApplication\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-18T13:21:47.268Z",
               "EditorCaption": ""
             }
           ]

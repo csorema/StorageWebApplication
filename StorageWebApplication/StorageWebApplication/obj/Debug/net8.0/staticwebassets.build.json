@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/M6THqmqsvmWLCeKlsOV63wMALh0aiP/byfv75TptXc=",
+  "Hash": "d71RFuBiHm7wRDCOMxEG6Y28u8ucb/NbX7oWE3K8M88=",
   "Source": "StorageWebApplication",
   "BasePath": "_content/StorageWebApplication",
   "Mode": "Default",
@@ -78,6 +78,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
+      "SourceId": "StorageWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\",
+      "BasePath": "_content/StorageWebApplication",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ekznlrddyg",
+      "Integrity": "zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
       "Identity": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\favicon.ico",
@@ -1399,6 +1420,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-pAGv4ietcJNk/EwsQZ5BN9+K4MuNYS2a9wl4Jw+q9D0="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 15:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.ekznlrddyg.css",
+      "AssetFile": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4529"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 18 Dec 2024 15:15:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ekznlrddyg"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w="
         }
       ]
     },

@@ -1,0 +1,52 @@
+﻿@page
+@model StorageWebApplication.Pages.ContactModel
+@{
+    ViewData["Title"] = "Elérhetőségek";
+}
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+    <div class="contact-container">
+        <h1>Elérhetőségek</h1>
+
+        <div class="contact-item">
+            <h2>Térkép</h2>
+            <p>
+                <a href="https://www.google.com/maps/place/Andrássy+út,+Budapest/" target="_blank">
+                    Andrássy út, Budapest
+                </a>
+            </p>
+        </div>
+
+        <div class="contact-item">
+            <h2>Email</h2>
+            <p>
+                <a href="mailto:raktar@gmail.com">raktar@gmail.com</a>
+            </p>
+        </div>
+
+        <div class="contact-item">
+            <h2>Telefonszám</h2>
+            <p>
+                <a href="tel:+36305061101">+36 30 506 1101</a>
+            </p>
+        </div>
+
+        <div class="contact-item">
+            <h2>Nyitvatartási idő</h2>
+            <ul>
+                <li>Hétfőtől-péntekig: 8:00 - 20:00</li>
+                <li>Szombat: 10:00 - 16:00</li>
+                <li>Vasárnap: 10:00 - 14:00</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

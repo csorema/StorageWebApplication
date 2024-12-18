@@ -4,29 +4,39 @@
     ViewData["Title"] = "Regisztráció";
 }
 
-<h1>Regisztráció</h1>
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+    <div class="register-container">
+        <h1>Regisztráció</h1>
+        <form method="post">
+            <div>
+                <input type="text" id="Name" name="Name" placeholder="Teljes név" required />
+            </div>
+            <div>
+                <input type="email" id="Email" name="Email" placeholder="Email" required />
+            </div>
+            <div>
+                <input type="password" id="Password" name="Password" placeholder="Jelszó" required />
+            </div>
+            <div>
+                <input type="date" id="BirthDate" name="BirthDate" required />
+            </div>
+            <button type="submit">Regisztráció</button>
+        </form>
 
-<form method="post">
-    <div>
-        <label for="Name">Név:</label>
-        <input type="text" id="Name" name="Name" />
-    </div>
-    <div>
-        <label for="Email">Email:</label>
-        <input type="email" id="Email" name="Email" />
-    </div>
-    <div>
-        <label for="Password">Jelszó:</label>
-        <input type="password" id="Password" name="Password" />
-    </div>
-    <div>
-        <label for="BirthDate">Születési dátum:</label>
-        <input type="date" id="BirthDate" name="BirthDate" />
-    </div>
-    <button type="submit">Regisztráció</button>
-</form>
+        @if (Model.Message != null)
+        {
+            <p>@Model.Message</p>
+        }
 
-@if (Model.Message != null)
-{
-        <p>@Model.Message</p>
-}
+        <a href="/User/Login">Már van fiókod? Jelentkezz be itt!</a>
+    </div>
+</body>
+</html>
