@@ -1,0 +1,72 @@
+﻿@page
+@model StorageWebApplication.Pages.StorageControllerModel
+@{
+    ViewData["Title"] = "Tárolókezelés";
+}
+
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="/css/styles.css" />
+</head>
+<body>
+    <div class="storage-controller-container">
+        <h1>Tárolókezelés</h1>
+
+        <!-- Új tároló létrehozása -->
+        <div class="create-storage">
+            <h2>Új tároló létrehozása</h2>
+            <form method="post" asp-page-handler="Create">
+                <div>
+                    <label for="Sname">Tároló neve:</label>
+                    <input type="text" id="Sname" name="Sname" required />
+                </div>
+                <div>
+                    <label for="Sdescription">Leírás:</label>
+                    <input type="text" id="Sdescription" name="Sdescription" required />
+                </div>
+                <div>
+                    <label for="Sarea">Terület:</label>
+                    <input type="number" id="Sarea" name="Sarea" required />
+                </div>
+                <button type="submit">Létrehozás</button>
+            </form>
+            @if (Model.Message != null)
+            {
+                <p>@Model.Message</p>
+            }
+        </div>
+
+        <!-- Tárolók listázása -->
+        <div class="list-storages">
+            <h2>Tárolók listája</h2>
+            <ul>
+                @foreach (var storage in Model.Storages)
+                {
+                    var ownerIdDisplay = storage.OwnerId == null ? "Nincs hozzárendelt tulajdonos" : storage.OwnerId.ToString();
+                    <li>@storage.Sname (ID: @ownerIdDisplay)</li>
+                }
+            </ul>
+        </div>
+
+        <!-- Tároló törlése -->
+        <div class="delete-storage">
+            <h2>Tároló törlése</h2>
+            <form method="post" asp-page-handler="Delete">
+                <div>
+                    <label for="StorageId">Tároló ID:</label>
+                    <input type="text" id="StorageId" name="StorageId" required />
+                </div>
+                <button type="submit">Törlés</button>
+            </form>
+            @if (Model.Message != null)
+            {
+                <p>@Model.Message</p>
+            }
+        </div>
+    </div>
+</body>
+</html>
