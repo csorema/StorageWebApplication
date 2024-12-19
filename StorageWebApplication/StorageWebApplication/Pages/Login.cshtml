@@ -15,22 +15,31 @@
 <body>
     <div class="login-container">
         <h1>Bejelentkezés</h1>
-        <form method="post">
+        <form method="post" id="login-form">
             <div>
                 <input type="email" id="Email" name="Email" placeholder="Email" required />
             </div>
             <div>
                 <input type="password" id="Password" name="Password" placeholder="Jelszó" required />
             </div>
-            <button type="submit">Bejelentkezés</button>
+            <button type="submit" class="btn btn-primary">Bejelentkezés</button>
         </form>
 
         @if (Model.Message != null)
         {
-            <p>@Model.Message</p>
+            <p id="login-message">@Model.Message</p>
         }
 
         <a href="/Register">Nincs még fiókod? Regisztrálj most!</a>
+
+        @if (Model.Message == "Sikeres bejelentkezés!")
+        {
+            <script>
+                setTimeout(function () {
+                    window.location.href = '@Url.Page("/About")';
+                }, 2000); // 2 másodperc várakozás
+            </script>
+        }
     </div>
 </body>
 </html>

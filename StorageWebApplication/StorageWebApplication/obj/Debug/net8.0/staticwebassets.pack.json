@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\images\\storage.jpg",
+      "PackagePath": "staticwebassets\\images\\storage.jpg"
+    },
+    {
       "Id": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

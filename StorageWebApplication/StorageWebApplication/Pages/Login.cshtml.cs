@@ -38,14 +38,14 @@ namespace StorageWebApplication.Pages
             };
 
             var response = await client.PutAsJsonAsync("User", loginDto);
+
             if (response.IsSuccessStatusCode)
             {
-                Message = "Sikeres bejelentkezés!";
-                return Page();
+                return RedirectToPage("/About"); // Átirányítás az About oldalra
             }
 
             Message = "Helytelen email vagy jelszó.";
-            return Page();
+            return Page(); // Hibás bejelentkezés esetén marad az aktuális oldalon
         }
     }
 }

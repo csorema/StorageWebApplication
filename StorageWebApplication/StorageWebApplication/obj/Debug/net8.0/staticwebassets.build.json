@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "d71RFuBiHm7wRDCOMxEG6Y28u8ucb/NbX7oWE3K8M88=",
+  "Hash": "8VIo2i2ZCSUwyY15Xl7KkRDvDvKLbMg2PL/1dnAHklo=",
   "Source": "StorageWebApplication",
   "BasePath": "_content/StorageWebApplication",
   "Mode": "Default",
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ekznlrddyg",
-      "Integrity": "zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=",
+      "Fingerprint": "ez6yd8l8fs",
+      "Integrity": "2vRHlSoPPiAGemnOI/CG7kB6zRn5dFXkwCW9fBR1tyQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\style.css"
@@ -120,6 +120,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\images\\storage.jpg",
+      "SourceId": "StorageWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\",
+      "BasePath": "_content/StorageWebApplication",
+      "RelativePath": "images/storage#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "d4u55skswt",
+      "Integrity": "vXyuIRJd/3oHVv6XcQYQz9b8pzePWrkjetfftZaMUbw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\storage.jpg"
     },
     {
       "Identity": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\js\\site.js",
@@ -1434,7 +1455,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4529"
+          "Value": "4749"
         },
         {
           "Name": "Content-Type",
@@ -1442,11 +1463,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=\""
+          "Value": "\"2vRHlSoPPiAGemnOI/CG7kB6zRn5dFXkwCW9fBR1tyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 15:15:02 GMT"
+          "Value": "Thu, 19 Dec 2024 06:39:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1456,12 +1477,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w="
+          "Value": "sha256-2vRHlSoPPiAGemnOI/CG7kB6zRn5dFXkwCW9fBR1tyQ="
         }
       ]
     },
     {
-      "Route": "css/style.ekznlrddyg.css",
+      "Route": "css/style.ez6yd8l8fs.css",
       "AssetFile": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1471,7 +1492,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4529"
+          "Value": "4749"
         },
         {
           "Name": "Content-Type",
@@ -1479,11 +1500,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w=\""
+          "Value": "\"2vRHlSoPPiAGemnOI/CG7kB6zRn5dFXkwCW9fBR1tyQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 18 Dec 2024 15:15:02 GMT"
+          "Value": "Thu, 19 Dec 2024 06:39:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1493,7 +1514,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ekznlrddyg"
+          "Value": "ez6yd8l8fs"
         },
         {
           "Name": "label",
@@ -1501,7 +1522,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-zqTpeK6R0+cJzqqZsS00WYy0nDUydO4BT6szP6bpZ8w="
+          "Value": "sha256-2vRHlSoPPiAGemnOI/CG7kB6zRn5dFXkwCW9fBR1tyQ="
         }
       ]
     },
@@ -1584,6 +1605,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "images/storage.d4u55skswt.jpg",
+      "AssetFile": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\images\\storage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vXyuIRJd/3oHVv6XcQYQz9b8pzePWrkjetfftZaMUbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 06:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "d4u55skswt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/storage.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vXyuIRJd/3oHVv6XcQYQz9b8pzePWrkjetfftZaMUbw="
+        }
+      ]
+    },
+    {
+      "Route": "images/storage.jpg",
+      "AssetFile": "D:\\Egyetem\\StorageWebApp\\StorageWebApplication\\StorageWebApplication\\StorageWebApplication\\wwwroot\\images\\storage.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "319091"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vXyuIRJd/3oHVv6XcQYQz9b8pzePWrkjetfftZaMUbw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Dec 2024 06:27:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vXyuIRJd/3oHVv6XcQYQz9b8pzePWrkjetfftZaMUbw="
         }
       ]
     },

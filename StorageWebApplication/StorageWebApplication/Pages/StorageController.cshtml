@@ -1,7 +1,7 @@
 ﻿@page
 @model StorageWebApplication.Pages.StorageControllerModel
 @{
-    ViewData["Title"] = "Tárolókezelés";
+    ViewData["Title"] = "Raktárak";
 }
 
 <!DOCTYPE html>
@@ -14,14 +14,14 @@
 </head>
 <body>
     <div class="storage-controller-container">
-        <h1>Tárolókezelés</h1>
+        <h1>Raktárak</h1>
 
-        <!-- Új tároló létrehozása -->
+        <!-- Új raktár létrehozása -->
         <div class="create-storage">
-            <h2>Új tároló létrehozása</h2>
+            <h2>Új raktár létrehozása</h2>
             <form method="post" asp-page-handler="Create">
                 <div>
-                    <label for="Sname">Tároló neve:</label>
+                    <label for="Sname">Raktár neve:</label>
                     <input type="text" id="Sname" name="Sname" required />
                 </div>
                 <div>
@@ -40,9 +40,9 @@
             }
         </div>
 
-        <!-- Tárolók listázása -->
+        <!-- Raktárak listázása -->
         <div class="list-storages">
-            <h2>Tárolók listája</h2>
+            <h2>Raktárak listája</h2>
             <ul>
                 @foreach (var storage in Model.Storages)
                 {
@@ -52,12 +52,12 @@
             </ul>
         </div>
 
-        <!-- Tároló törlése -->
+        <!-- Raktár törlése -->
         <div class="delete-storage">
-            <h2>Tároló törlése</h2>
+            <h2>Raktár törlése</h2>
             <form method="post" asp-page-handler="Delete">
                 <div>
-                    <label for="StorageId">Tároló ID:</label>
+                    <label for="StorageId">Raktár ID:</label>
                     <input type="text" id="StorageId" name="StorageId" required />
                 </div>
                 <button type="submit">Törlés</button>
